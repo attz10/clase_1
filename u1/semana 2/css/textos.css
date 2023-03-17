@@ -1,0 +1,57 @@
+body{
+    background-color: lightgray;
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+h1{
+    font-size: 2.5em;
+    color: darkslategrey;
+    text-decoration: underline;
+}
+
+p{
+    text-align: justify;
+}
+
+ul{
+    list-style-image: url(../imagenes/iconos/star.png);
+    padding-right: 20px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th,td{
+    border: 1px solid blue;
+}
+
+th{
+    background-color: lightblue;
+}
+
+.parrafo-destacado{
+    color: darkblue;
+    font-style: italic;
+    line-height: 1.5em;
+}
+
+.box-destacada{
+    background-color: white;
+    border: 2px dotted red;
+    padding: 5px;
+}
+
+.lista-letras{
+    list-style-type: lower-alpha;
+}
+
+.texto-destacado{
+    font-weight: bold;
+}
+
+#titulo-donec{
+    color: red;
+    font-size: 1.5em;
+}
