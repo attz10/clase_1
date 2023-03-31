@@ -1,0 +1,12 @@
+//cambiar colores
+$primary:       #2a2a28;
+$secondary:     #894a99;
+$success:       #39a603;
+$info:          #12faa3;
+$warning:       #ffc103;
+$danger:        #f30155;
+$light:         #109959;
+$dark:          #050104;
+
+//importar 
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
